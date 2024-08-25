@@ -5,8 +5,8 @@ This repository contains the implementation of a Convolutional Neural Network (C
 
 - Custom CNN architecture using PyTorch.
 
-Data augmentation and preprocessing techniques to improve model performance.
+- Data augmentation and preprocessing techniques to improve model performance.
 
-Evaluation of model performance with detailed metrics and visualizations.
+- Evaluation of model performance with detailed metrics and visualizations.
 
-Hyperparameter tuning and experimentation results.
+- Hyperparameter tuning and experimentation results.
